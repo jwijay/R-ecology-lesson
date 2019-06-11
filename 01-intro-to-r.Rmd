@@ -11,7 +11,7 @@ source("setup.R")
 
 ------------
 
-> ### Learning Objectives
+> ### Test
 >
 > * Define the following terms as they relate to R: object, assign, call,
 >   function, arguments, options.
